@@ -158,11 +158,17 @@ getMaxSubSum([-1, -2, -3]) = 0
 
 Задачи CodeWars:
 https://www.codewars.com/kata/javascript-mathematician
+
 https://www.codewars.com/kata/javascript-from-the-inside-number-1-map
+
 https://www.codewars.com/kata/javascript-from-the-inside-number-2-filter
+
 https://www.codewars.com/kata/power-bind
+
 https://www.codewars.com/kata/closures-and-scopes
+
 https://www.codewars.com/kata/can-you-keep-a-secret
+
 
 Задача с API
 Необходимо использовать любое API для написания веб-приложения используя Node JS и Express
